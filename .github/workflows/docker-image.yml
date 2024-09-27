@@ -27,4 +27,4 @@ jobs:
         context: .
         platforms: linux/amd64,linux/arm,linux/arm64
         push: true
-        tags: fxljay1/sub-web-modify:latest
+        tags: fxljay/sub-web-modify:latest
